@@ -1,4 +1,2 @@
 # Bone-Fracture-Detection
 
-
-
